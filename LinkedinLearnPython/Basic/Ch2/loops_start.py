@@ -21,8 +21,10 @@ def main():
   
   # # use the break and continue statements
   # for x in range(5,11):
-  #   if (x==9): break
-  #   if (x%2 == 0): continue
+  #   if (x==9): 
+  #     break
+  #   if (x%2 == 0): 
+  #     continue
   #   print(x)
 
   # using the enumerate() function to get index
